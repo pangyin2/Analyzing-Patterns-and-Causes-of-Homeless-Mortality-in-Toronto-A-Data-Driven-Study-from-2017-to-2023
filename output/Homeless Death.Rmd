@@ -2,7 +2,7 @@
 title: "Analyzing Patterns and Causes of Homeless Mortality in Toronto: A Data-Driven Study from 2017 to 2023"
 author: 
   - Yingqi Pang
-thanks: "Code and data are available at: https://github.com/pangyin2/Homeless-Deaths-in-Toronto.git"
+thanks: "Code and data are available at: https://github.com/pangyin2/Analyzing-Patterns-and-Causes-of-Homeless-Mortality-in-Toronto-A-Data-Driven-Study-from-2017-to-2023"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 abstract: "In the urban landscape of Toronto, homelessness remains a poignant and complex issue, especially in the context of mortality. This study delves into the intricate patterns of homeless deaths, utilizing comprehensive data analysis to uncover underlying trends and contributing factors. By integrating statistical methods and data from Toronto's public records, our research highlights significant temporal and demographic patterns in these deaths. The findings not only illuminate the severity of the situation but also provide critical insights for policymakers and social services. This paper not only aims to enhance understanding of the homeless mortality crisis but also to inform strategies for mitigation and support for this population."
 output:
